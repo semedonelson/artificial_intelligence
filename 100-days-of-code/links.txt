@@ -1,0 +1,28 @@
+https://johnsoncontrols-prt.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview
+
+coding rooms:
+https://app.codingrooms.com/management/courses/6387/classes/8480/assignments
+
+reeborg:
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
+
+PEP 8 – Style Guide for Python Code:
+https://peps.python.org/pep-0008/
+
+pythontutor:
+https://pythontutor.com/python-debugger.html#mode=edit
+
+Text to ASCII:
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+public datasets:
+https://github.com/awesomedata/awesome-public-datasets
+https://www.kaggle.com/datasets
+https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
+https://data.gov/
+
+financial dataset:
+https://imerit.net/blog/20-best-finance-economic-datasets-for-machine-learning-all-pbm/
+https://finances.worldbank.org/
+https://data.nasdaq.com/
+https://data.world/datasets/finance
