@@ -12,6 +12,9 @@ https://peps.python.org/pep-0008/
 pythontutor:
 https://pythontutor.com/python-debugger.html#mode=edit
 
+python packages:
+https://pypi.org/
+
 Text to ASCII:
 https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
