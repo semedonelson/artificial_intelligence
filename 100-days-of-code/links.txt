@@ -29,3 +29,6 @@ https://imerit.net/blog/20-best-finance-economic-datasets-for-machine-learning-a
 https://finances.worldbank.org/
 https://data.nasdaq.com/
 https://data.world/datasets/finance
+
+pandas:
+https://pandas.pydata.org/docs/
