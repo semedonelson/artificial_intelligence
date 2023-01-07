@@ -34,5 +34,17 @@ pandas:
 https://pandas.pydata.org/docs/
 
 
+Latitude and Longitude Finder:
+https://www.latlong.net/
+
 python anywhere:
 https://www.pythonanywhere.com/
+
+
+twilio:
+https://console.twilio.com/
+apikey: SKe574371ab70c7c4be8fe546b98c0cc76
+secret: 9bNHnmkSkuBmTYMpwgAali1Jd13eaAO3
+
+json viewer:
+http://jsonviewer.stack.hu/
