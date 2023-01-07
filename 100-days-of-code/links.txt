@@ -48,3 +48,6 @@ secret: 9bNHnmkSkuBmTYMpwgAali1Jd13eaAO3
 
 json viewer:
 http://jsonviewer.stack.hu/
+
+python date format:
+https://www.w3schools.com/python/python_datetime.asp
