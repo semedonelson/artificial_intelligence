@@ -33,13 +33,11 @@ https://data.world/datasets/finance
 pandas:
 https://pandas.pydata.org/docs/
 
-
 Latitude and Longitude Finder:
 https://www.latlong.net/
 
 python anywhere:
 https://www.pythonanywhere.com/
-
 
 twilio:
 https://console.twilio.com/
@@ -51,3 +49,9 @@ http://jsonviewer.stack.hu/
 
 python date format:
 https://www.w3schools.com/python/python_datetime.asp
+
+BeautifulSoup:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+web archive:
+https://web.archive.org/
