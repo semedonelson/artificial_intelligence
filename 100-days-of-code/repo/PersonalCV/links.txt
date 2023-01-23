@@ -3,3 +3,8 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 
 crop image:
 https://crop-circle.imageonline.co/
+
+bootstrap:
+https://getbootstrap.com/
+
+https://www.codeply.com/go
