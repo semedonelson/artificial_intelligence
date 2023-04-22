@@ -1,0 +1,5 @@
+Data Links:
+https://docs.google.com/document/d/19Zdv_E066DsFdbrGW8Or0UYz2Ab0UY0kEKPDexETKvA/edit
+
+github:
+https://github.com/lazyprogrammer/machine_learning_examples/tree/master/cnn_class2

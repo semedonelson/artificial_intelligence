@@ -1,0 +1,7 @@
+data links:
+https://docs.google.com/document/d/1C656nbP-6BYlQHO92h5v3dGzaB_TC3VBtlA_82LVrnM/edit
+
+github:
+https://github.com/lazyprogrammer/machine_learning_examples/tree/master/rnn_class
+
+https://playground.tensorflow.org/

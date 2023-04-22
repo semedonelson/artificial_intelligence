@@ -1,0 +1,15 @@
+https://www.researchgate.net/publication/357401723_Web_Scraping_or_Web_Crawling_State_of_Art_Techniques_Approaches_and_Application
+https://www.scrapingbee.com/blog/web-scraping-101-with-python/
+https://www.geeksforgeeks.org/python-web-scraping-tutorial/
+
+
+https://crawlbase.com/blog/how-you-can-scrape-financial-data/
+https://www.projectpro.io/article/web-scraping-projects-ideas/475
+https://medium.com/swlh/twitter-sentiment-analysis-guide-63d6a915582d
+https://www.scrapeit.io/blog/how-can-web-scraping-technology-help-the-finance-industry
+https://www.parsehub.com/blog/web-scraping-money/
+https://towardsdatascience.com/can-we-beat-the-stock-market-using-twitter-ef8465fd12e2
+https://www.codingdojo.com/blog/what-is-web-scraping
+https://www.freecodecamp.org/news/python-web-scraping-tutorial/
+https://limeproxies.netlify.app/blog/guide-to-web-scraping-for-financial-data
+https://webautomation.io/blog/how-hedge-funds-are-using-web-scraping-to-make-millions/
